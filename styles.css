@@ -1,0 +1,78 @@
+body {
+	font-family: Tahoma;
+	font-size: 18px;
+	line-height: 1.5;
+	background: url(pattern.png)
+	margin: 0 auto;
+}
+.card {
+	width: 400px ;
+	margin: 30px auto;
+ background-color: #fff;
+ box-shadow: 0 5px 10px #ccc;
+ border-radius: 10px;
+ padding: 20px;
+ float: left;
+ margin-left: 400px;
+}   
+img {
+	width: 200px ;
+	height: 200px;
+	margin: 0 auto;
+	display: block;
+	border-radius: 50%;
+}
+.title {
+	font-size: 20px;
+	text-align: center;
+	color: #000;
+	
+}
+.me {
+	font-size: 20px;
+	color: #595c644d;
+	padding-left: 0px;
+}
+.forme {
+	font-size: 14px;	
+	padding-left: 14px;
+}
+.card2 {
+	width: 500px;
+	height:100px;
+	border-radius: 10px;
+	box-shadow: 0 5px 10px #ccc;
+	margin: 30px auto;	
+	 background-color: #fff;
+}
+.title2 {
+	text-align: center;
+	padding: 20px;
+	color: #000;
+	filter:
+	drop-shadow(3px 3px 10px);
+}
+.card5 {
+	width: 400px ;
+	margin:30px auto;
+ background-color: #fff;
+ box-shadow: 0 5px 10px #ccc;
+ border-radius: 10px;
+ padding: 20px;
+ float: right;
+ margin-right: 400px;
+}   
+.title5 {
+	font-size: 20px;
+	text-align: center;
+	color: #000;
+	
+}
+.me5 {
+	font-size: 20px;
+	color: #595c644d;
+	padding-left: 0px;
+}
+.forme5 {
+	font-size: 14px;	
+	padding-left: 14px;
